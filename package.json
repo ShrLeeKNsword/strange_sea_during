@@ -1,0 +1,12 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb",
+    "window": {
+        "title": "异潮-浪起",
+        "width": 840,
+        "height": 660,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}
